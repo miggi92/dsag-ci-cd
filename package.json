@@ -14,5 +14,6 @@
     "dependencies": [
       "@sap/ui5-builder-webide-extension"
     ]
-  }
+  },
+  "packageManager": "npm@10.8.3"
 }
